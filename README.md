@@ -1,1 +1,1 @@
-# coding-project-template
+# Conference Event Planner
